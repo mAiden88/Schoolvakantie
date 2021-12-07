@@ -71,7 +71,7 @@ example :
  * in group.yaml:
  ```python
   school:
-  name: "מצב לימודים"
+  name: "School Holidays"
   view: no
   entities:
     - sensor.school_summary
@@ -82,7 +82,7 @@ example :
  
  ```python
   - type: entities
-        title: "בית ספר"
+        title: "School Holidays"
         show_header_toggle: false
         entities:
           - sensor.school_summary
