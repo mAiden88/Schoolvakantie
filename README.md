@@ -1,9 +1,6 @@
 ﻿# Netherlands School-Vacation with HomeAssistant Sensor Custom Component
 ## Get Netherlands School Vacation in HomeAssistant // mAiden
 
-# Israel School-Vacation with HomeAssistant Sensor Custom Component
-## Get Israel School Vacation in HomeAssistant
-
 This sensor checks whether today is a day off from school or not.
 The sensor is divided into two types, elementary school and high school.
 In Israel, the vacation begins on 22.06 in high school, while in elementary school the vacation begins on 01.07. 
