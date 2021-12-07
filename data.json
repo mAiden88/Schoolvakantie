@@ -1,0 +1,42 @@
+﻿[
+    {
+        "END": "20220107"
+        "START": "20211227"
+        "SUMMARY": "Kerstvakantie"
+    },
+    {
+        "END": "20220221"
+        "START": "20220225"
+        "SUMMARY": "Voorsvakantie"
+    },
+    {
+        "END": "20220415"
+        "START": "20220415"
+        "SUMMARY": "Goede Vrijdag"
+    },
+    {
+        "END": "20220418"
+        "START": "20220418"
+        "SUMMARY": "Pasen"
+    },
+    {
+        "END": "20220425"
+        "START": "20220506"
+        "SUMMARY": "Meivakantie"
+    },
+    {
+        "END": "20220526"
+        "START": "20220527"
+        "SUMMARY": "Hemelvaart"
+    },
+    {
+        "END": "20220606"
+        "START": "20220606"
+        "SUMMARY": "Pinksteren"
+    },
+    {
+        "END": "20220715"
+        "START": "20220826"
+        "SUMMARY": "Zomervakantie"
+    }
+]
