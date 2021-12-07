@@ -1,0 +1,9 @@
+{
+  "domain": "school_holidays",
+  "name": "The Netherlands School Vacation Times",
+  "documentation": "https://github.com/mAiden88/Schoolvakantie",
+  "version": "2.0.2",
+  "dependencies": [],
+  "codeowners": ["@mAiden88"],
+  "requirements": []
+}
